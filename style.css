@@ -30,19 +30,16 @@
 
 body {
     background-color: var(--cor0);
-    /* min-width: 400px;
-    max-width: 800px; */
     font-family: var(--fonte0);
 
 }
 
 header {
     background-image: linear-gradient(to top, #063D1E, #2fa866);
-    height: 130px;
+    height: 150px;
     font-family: var(--fonte1);
     font-weight: normal;
     font-size: 24px;
-    /* font-style: normal; */
     color: white;
     text-align: center;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
@@ -64,8 +61,6 @@ header p {
 nav {
     background-color: var(--cor5);
     font-family: var(--fonte0);
-    /* display: flex; */
-    /* height: 40px; */
     padding: 10px;
  
 }
@@ -74,9 +69,6 @@ nav > ul > li {
     display: inline;
     list-style-type: none;  
     margin-right: 2em;
-    /* border: 2px solid; */
-    /* box-sizing: border-box; */
-    /* padding: px; */
 }
 
 nav > ul > li > a {
