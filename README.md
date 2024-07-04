@@ -1,2 +1,2 @@
 # projeto-android
- Projeto desenvolvido no módulo 2, na plataforma do Curso em Vídeo.
+Site desenvolvido durante módulo 3 do curso de HTML e CSS do Curso em Vídeo.
